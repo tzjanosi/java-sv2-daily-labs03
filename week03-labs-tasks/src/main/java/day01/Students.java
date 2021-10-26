@@ -3,7 +3,7 @@ package day01;
 import java.util.ArrayList;
 import java.util.List;
 public class Students {
-    List<Integer> heightList = new ArrayList<>();
+    private List<Integer> heightList = new ArrayList<>();
     public void addHeight (int height){
         heightList.add(height);
     }
