@@ -1,2 +1,2 @@
 # java-sv2-daily-labs03
-Repo for the 3rd week!s dailz problems.
+Repo for the 3rd week's daily problems.
