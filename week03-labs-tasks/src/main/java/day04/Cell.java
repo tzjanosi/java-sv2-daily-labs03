@@ -6,7 +6,7 @@ import java.util.List;
 public class Cell {
     private int value;
     boolean free;
-    List<Integer> dividers = new ArrayList<>();
+    private List<Integer> dividers = new ArrayList<>();
 
     public Cell(int value) {
         this.value = value;
